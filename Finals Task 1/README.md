@@ -1,9 +1,10 @@
 # Finals Task 1. Multi Level Company Database 
-
-
-
+For this task, we are given MySQL statements that need to be implemented.
 ## Here's the screenshot of Query Statements (See screenshot)
-- TASK 1
+- TASK 1: Create a table named employees with the following fields:
+employee_id: Unique integer, auto-increment, primary key.
+employee_name: String (VARCHAR) with up to 255 characters, not null.
+manager_id: Integer, foreign key referencing employee_id in the same table (employees).
 
 ![Sample Output](images/QS_TASK1.png)
 - TASK 2
