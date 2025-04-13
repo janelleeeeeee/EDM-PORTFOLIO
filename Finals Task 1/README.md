@@ -1,6 +1,6 @@
 # Finals Task 1. Multi Level Company Database 
 For this task, we are given MySQL statements that need to be implemented.
-## Here's the screenshot of Query Statements (See screenshot)
+## Here's the screenshot of Query Statements (See screenshots)
 - **TASK 1**
 
 ![Sample Output](images/QS_TASK1.png)
@@ -16,7 +16,7 @@ For this task, we are given MySQL statements that need to be implemented.
 - **TASK 5**
 
 ![Sample Output](images/QS_TASK5.png)
-## Here's the screenshot of Table Structure (See screenshot)
+## Here's the screenshot of Table Structure (See screenshots)
 - **TASK 1**
 
 ![Sample Output](images/TS_TASK1.png)
