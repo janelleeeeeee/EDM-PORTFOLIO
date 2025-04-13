@@ -35,4 +35,4 @@ For this task, we are given MySQL statements that need to be implemented.
 ## Here's the ER Diagram or Relational schema 
 ![Sample Output](images/ERD.png)
 ## Sql copy of the database and table structures
-![Sql copy of the database and table sturctures](images/sql_copy.sql)
+![SQL COPY](images/sql_copy.pdf)
