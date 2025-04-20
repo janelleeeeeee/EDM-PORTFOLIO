@@ -12,3 +12,4 @@ Hi, I’m Janelle Bognot, a BS Information Systems student. I am interested in t
 - Midterm Lab Task 2: [Data Cleaning and Transformation using POWER QUERY](Midterm%20Lab%20Task%202)
 - Midterm Lab Task 3: [Creating Pivot Tables and Charts](Midterm%20Lab%20Task%203)
 - Finals Task 1: [Multi Level Company Database](Finals%20Task%201)
+- Finals Task 2: [Transforming ER Model to Relational Tables](Finals%20Task%202)
