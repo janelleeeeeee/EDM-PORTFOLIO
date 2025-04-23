@@ -33,4 +33,4 @@ For this task, we are given initial query then perform the SELECT statements req
 
 ![Sample Output](images/TS_TASK5.png)
 ## Sql copy of the database and table structures
-![SQL COPY](images/sql_copy.png)
+![SQL COPY](images/sqlcopy.png)
