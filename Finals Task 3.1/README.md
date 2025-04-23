@@ -1,4 +1,4 @@
-# Finals Task 3-1 Using SELECT CLAUSE
+# Finals Task 3.1 Using SELECT CLAUSE
 For this task, we are given initial query then perform the SELECT statements required for each problems.
 ## Here's the screenshot of Query Statements (See screenshots)
 - **TASK 1**
