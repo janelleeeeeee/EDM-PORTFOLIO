@@ -1,33 +1,36 @@
 # Finals Task 4. Using SELECT CLAUSE
 For this task, we are given initial query then perform the SELECT statements required for each problems.
-## Here's the screenshots of Query Statements (See screenshots)
+## Here's the screenshot of Query Statements (See screenshots)
 - **TASK 1**
 
-![Sample Output](images/QS_TASK_1.png)
+![Sample Output](images/QS_TASK1.png)
 - **TASK 2**
 
-![Sample Output](images/QS_TASK_2.png)
+![Sample Output](images/QS_TASK2.png)
 - **TASK 3**
 
-![Sample Output](images/QS_TASK_3.png)
+![Sample Output](images/QS_TASK3.png)
 - **TASK 4**
 
-![Sample Output](images/QS_TASK_4.png)
-## Here's the screenshots of Table Structures (See screenshots)
+![Sample Output](images/QS_TASK4.png)
+- **TASK 5**
+
+![Sample Output](images/QS_TASK5.png)
+## Here's the screenshot of Table Structure (See screenshots)
 - **TASK 1**
 
-![Sample Output](images/TS_TASK_1.png)
+![Sample Output](images/TS_TASK1.png)
 - **TASK 2**
 
-![Sample Output](images/TS_TASK_2.png)
+![Sample Output](images/TS_TASK2.png)
 - **TASK 3**
   
-![Sample Output](images/TS_TASK_3.png)
+![Sample Output](images/TS_TASK3.png)
 - **TASK 4**
 
-![Sample Output](images/TS_TASK_4.png)
-## Here's the ER Diagram or Relational schema 
-![Sample Output](images/ERD_TASK_3.png)
-## Sql copy of the database and table structures
-![SQL COPY](images/sql_copy_3.png)
+![Sample Output](images/TS_TASK4.png)
+- **TASK 5**
 
+![Sample Output](images/TS_TASK5.png)
+## Sql copy of the database and table structures
+![SQL COPY](images/SQL_COPY.png)
