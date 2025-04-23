@@ -3,7 +3,7 @@ For this task, we are given initial query then perform the SELECT statements req
 ## Here's the screenshot of Query Statements (See screenshots)
 - **TASK 1**
 
-![Sample Output](images/QS_TASK_1.png)
+![Sample Output](images/QS_TASK1.png)
 - **TASK 2**
 
 ![Sample Output](images/QS_TASK2.png)
@@ -19,7 +19,7 @@ For this task, we are given initial query then perform the SELECT statements req
 ## Here's the screenshot of Table Structure (See screenshots)
 - **TASK 1**
 
-![Sample Output](images/TS_TASK_1.png)
+![Sample Output](images/TS_TASK1.png)
 - **TASK 2**
 
 ![Sample Output](images/TS_TASK2.png)
