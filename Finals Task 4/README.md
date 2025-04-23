@@ -12,7 +12,7 @@ For this task, we are given initial query then perform the SELECT statements req
 ![Sample Output](images/QS_TASK3.png)
 - **TASK 4**
 
-![Sample Output](images/QS_TASK4.png)
+![Sample Output](images/QS_TASK_4.png)
 - **TASK 5**
 
 ![Sample Output](images/QS_TASK5.png)
