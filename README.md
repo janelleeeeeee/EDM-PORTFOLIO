@@ -14,5 +14,5 @@ Hi, I’m Janelle Bognot, a BS Information Systems student. I am interested in t
 - Finals Task 1: [Multi Level Company Database](Finals%20Task%201)
 - Finals Task 2: [Transforming ER Model to Relational Tables](Finals%20Task%202)
 - Finals Task 3: [Table Manipulation](Finals%20Task%203)
-- Finals Task 4: [Using SELECT CLAUSE](Finals%20Task%204)
+- Finals Task 3-1: [Using SELECT CLAUSE](Finals%20Task%204)
 
