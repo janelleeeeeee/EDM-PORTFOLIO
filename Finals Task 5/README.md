@@ -32,7 +32,5 @@
 - **TASK 5**
 
 ![Sample Output](images/TS_5.png)
-## Sql copy of the database and table structures
-![SQL COPY](images/SQL_COPY_3.1.png)
 
 
