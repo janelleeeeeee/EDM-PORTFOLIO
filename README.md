@@ -15,4 +15,6 @@ Hi, I’m Janelle Bognot, a BS Information Systems student. I am interested in t
 - Finals Task 2: [Transforming ER Model to Relational Tables](Finals%20Task%202)
 - Finals Task 3: [Table Manipulation](Finals%20Task%203)
 - Finals Task 4: [Using SELECT CLAUSE](Finals%20Task%203.1)
+- Finals Task 5. [Using SQL views and Stored Procedures and Stored](Finals%20Task%205)
+
 
