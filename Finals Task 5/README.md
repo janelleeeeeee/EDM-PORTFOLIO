@@ -29,8 +29,5 @@
 - **TASK 4**
 
 ![Sample Output](images/TS_4.png)
-- **TASK 5**
-
-![Sample Output](images/TS_5.png)
 
 
