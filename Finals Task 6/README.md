@@ -1,5 +1,6 @@
 # Finals Task 6. MongoDB Practice
 - **Create Database**
+
 ![Sample Output](images/CB.png)
 - **Insert Documents**
 ![Sample Output](images/INSERT2.png)
