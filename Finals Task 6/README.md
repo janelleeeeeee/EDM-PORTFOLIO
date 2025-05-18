@@ -10,7 +10,9 @@
 - db.movies.find()
 
 ![Sample Output](images/FIND1.png)
+
 ![Sample Output](images/FIND2.png)
+
 ![Sample Output](images/FIND3.png)
 - db.movies.find({writer:"Quentin Tarantino"})
 
