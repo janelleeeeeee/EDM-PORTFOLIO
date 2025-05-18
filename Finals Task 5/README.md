@@ -1,4 +1,4 @@
-# Finals Task 5 Using SQL views and Stored Procedures and Stored Functions
+# Finals Task 5. Using SQL views and Stored Procedures and Stored Functions
 
 ## Here's the screenshot of Query Statements (See screenshots)
 - **TASK 1. CREATE A VIEW that will display the vendors_code, vendors name, product description p_indate, of all products with p_indate from 2002 onwards**
