@@ -1,8 +1,9 @@
 # Finals Task 6. MongoDB Practice
-- **Create Database**
+- ## Create Database
 
 ![Sample Output](images/CB.png)
-- **Insert Documents**
+- ## Insert Documents
+  
 ![Sample Output](images/INSERT2.png)
 ![Sample Output](images/INSERT2.png)
 - **TASK 3. Create a VIEW that will COMPUTE for the (TOTAL_PRICE) of ALL PRODUCTS by getting the (P_ONHAND x P_PRICE) Sold by vendors with the following v_code (21344, 23119 and 24288)**
