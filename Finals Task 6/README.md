@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/89bfef50-e7fe-4a41-aab2-7ca971a27707)# Finals Task 6. MongoDB Practice
+# Finals Task 6. MongoDB Practice
 ## Create Database
 
 ![Sample Output](images/CB.png)
