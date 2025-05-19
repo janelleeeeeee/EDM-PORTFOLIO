@@ -41,3 +41,16 @@
 ## Relationships
 ### Insert the following documents into a `users` collection
 
+![Sample Output](images/INSERTREL.png)
+### Insert the following documents into a `posts` collection
+
+![Sample Output](images/POST.png)
+![Sample Output](images/POSTS.png)
+### Insert the following documents into a `comments` collection
+
+![Sample Output](images/COMMENT.png)
+![Sample Output](images/COMMENTS.png)
+## Querying related collections
+- 1. find all users
+![Sample Output](images/COMMENTS.png)
+
