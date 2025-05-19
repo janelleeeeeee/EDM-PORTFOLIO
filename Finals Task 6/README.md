@@ -1,9 +1,24 @@
 # Finals Task 6. MongoDB Practice
 ## Create Database
+Connect to a running mongo instance, use a database named `mongo_practice`. 
+use mongo_practice
 
 ![Sample Output](images/CB.png)
 ## Insert Documents
-  
+Insert the following documents into a `movies` collection.
+```
+title : Fight Club
+writer : Chuck Palahniuk
+year : 1999
+actors : [
+Brad Pitt
+Edward Norton
+]
+```
+```
+db.movies.insert({title:&quot;Fight Club&quot;, writer: &quot;Chuck Palahniuk&quot;, year: &quot;1999&quot;, actors:[&quot;Brad Pitt&quot;,
+&quot;Edward Norton&quot;]})
+```
 ![Sample Output](images/INSERT2.png)
 ![Sample Output](images/INSERT2.png)
 ## Query / Find Documents
