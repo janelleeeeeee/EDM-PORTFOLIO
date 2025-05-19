@@ -8,26 +8,26 @@
 ![Sample Output](images/INSERT2.png)
 ## Query / Find Documents
 query the `movies` collection to
-- db.movies.find()
+**1. get all documents**
 
 ![Sample Output](images/FIND1.png)
 
 ![Sample Output](images/FIND2.png)
 
 ![Sample Output](images/FIND3.png)
-1. get all documents with `writer` set to "Quentin Tarantino"
+**2. get all documents with `writer` set to "Quentin Tarantino"**
 
 ![Sample Output](images/FIND4.png)
-- get all documents where `actors` include "Brad Pitt"
+**3. get all documents where `actors` include "Brad Pitt"** 
 
 ![Sample Output](images/FIND5.png)
-- db.movies.find({franchise:"The Hobbit"})
+**4. get all documents with `franchise` set to "The Hobbit"**
 
 ![Sample Output](images/FIND6.png)
-- db.movies.find({year:{$gt:"1990", $lt:"2000"}})
+**5. get all movies released in the 90s**
 
 ![Sample Output](images/FIND7.png)
-- db.movies.find({$or:[{year:{$gt:"2010"}},{year: {$lt:"2000"}}]})
+**get all movies released before the year 2000 or after 2010**
 
 ![Sample Output](images/FIND8.png)
 ## Update Documents
