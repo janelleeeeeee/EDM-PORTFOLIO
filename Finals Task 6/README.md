@@ -16,13 +16,13 @@ Edward Norton
 ]
 ```
 ```
-db.movies.insert({title:&quot;Fight Club&quot;, writer: &quot;Chuck Palahniuk&quot;, year: &quot;1999&quot;, actors:[&quot;Brad Pitt&quot;,
-&quot;Edward Norton&quot;]})
+db.movies.insert({title:"Fight Club", writer: "Chuck Palahniuk", year: "1999", actors:["Brad Pitt", "Edward Norton"]})
 ```
 ![Sample Output](images/INSERT2.png)
 ![Sample Output](images/INSERT2.png)
 ## Query / Find Documents
 query the `movies` collection to
+
 **1. get all documents**
 
 ![Sample Output](images/FIND1.png)
