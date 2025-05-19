@@ -15,7 +15,7 @@ query the `movies` collection to
 ![Sample Output](images/FIND2.png)
 
 ![Sample Output](images/FIND3.png)
-- get all documents with `writer` set to "Quentin Tarantino"
+1. get all documents with `writer` set to "Quentin Tarantino"
 
 ![Sample Output](images/FIND4.png)
 - get all documents where `actors` include "Brad Pitt"
