@@ -1,4 +1,4 @@
-# Finals Task 6. MongoDB Practice
+![image](https://github.com/user-attachments/assets/89bfef50-e7fe-4a41-aab2-7ca971a27707)# Finals Task 6. MongoDB Practice
 ## Create Database
 
 ![Sample Output](images/CB.png)
@@ -38,3 +38,6 @@
 ## Delete Documents
 
 ![Sample Output](images/DELETE.png)
+## Relationships
+### Insert the following documents into a `users` collection
+
