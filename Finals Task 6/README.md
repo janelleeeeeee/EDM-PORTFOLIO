@@ -7,6 +7,7 @@
 ![Sample Output](images/INSERT2.png)
 ![Sample Output](images/INSERT2.png)
 ## Query / Find Documents
+query the `movies` collection to
 - db.movies.find()
 
 ![Sample Output](images/FIND1.png)
@@ -14,10 +15,10 @@
 ![Sample Output](images/FIND2.png)
 
 ![Sample Output](images/FIND3.png)
-- db.movies.find({writer:"Quentin Tarantino"})
+- get all documents with `writer` set to "Quentin Tarantino"
 
 ![Sample Output](images/FIND4.png)
-- db.movies.find({actors:"Brad Pitt"})
+- get all documents where `actors` include "Brad Pitt"
 
 ![Sample Output](images/FIND5.png)
 - db.movies.find({franchise:"The Hobbit"})
@@ -51,6 +52,27 @@
 ![Sample Output](images/COMMENT.png)
 ![Sample Output](images/COMMENTS.png)
 ## Querying related collections
-- 1. find all users
-![Sample Output](images/COMMENTS.png)
+- find all users
+
+![Sample Output](images/USER.png)
+- find all posts
+
+![Sample Output](images/FINDPOST.png)
+![Sample Output](images/FINDPOSTS.png)
+- find all posts that was authored by "GoodGuyGreg"
+
+![Sample Output](images/POSTFIND.png)
+- find all posts that was authored by "ScumbagSteve"
+
+![Sample Output](images/FINDUSER.png)
+- find all comments
+
+![Sample Output](images/FINDCOMMENT.png)
+![Sample Output](images/FINDCOMMENT1.png)
+- find all comments that was authored by "GoodGuyGreg"
+
+![Sample Output](images/COMMENTFIND.png)
+- find all comments that was authored by "ScumbagSteve"
+
+![Sample Output](images/COMMENTFIND1.png)
 
