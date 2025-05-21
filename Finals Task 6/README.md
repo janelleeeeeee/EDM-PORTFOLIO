@@ -55,6 +55,36 @@ franchise : The Hobbit
 db.movies.insert({title:"The Hobbit: An unexpected Journey", writer:"J.R.R. Tolkein",year:"2012",franchise:"The Hobbit"})
 ```
 ![Sample Output](images/INSERT1.png)
+```
+title : The Hobbit: The Desolation of Smaug
+writer : J.R.R. Tolkein
+year : 2013
+franchise : The Hobbit
+```
+```
+db.movies.insert({title:"The Hobbit: The Desolation of Smaug", writer:"J.R.R Tolkien", year:"2013", franchise:"The Hobbit"})
+```
+```
+title : The Hobbit: The Battle of the Five Armies
+writer : J.R.R. Tolkein
+year : 2012
+franchise : The Hobbit
+synopsis : Bilbo and Company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.
+```
+```
+db.movies.insert({title:"The Hobbit: The Battle of the Five Armies", writer:"J.R.R Tolkien", year:"2002", franchise:"The Hobbit", synopsis:"Bilbo and Company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness."})
+```
+```
+title : Pee Wee Herman's Big Adventure
+```
+```
+db.movies.insert({title:"Pee Wee Herman's Big Adventures"})
+```
+```
+title : Avatar
+```
+db.movies.insert({title:"Avatar"})
+```
 ![Sample Output](images/INSERT2.png)
 ## Query / Find Documents
 query the `movies` collection to
