@@ -92,7 +92,9 @@ db.movies.insert({title:"Avatar"})
 query the `movies` collection to
 
 **1. get all documents**
-
+```
+db.movies.find()
+```
 ![Sample Output](images/FIND1.png)
 
 ![Sample Output](images/FIND2.png)
@@ -101,6 +103,7 @@ query the `movies` collection to
 **2. get all documents with `writer` set to "Quentin Tarantino"**
 
 ![Sample Output](images/FIND4.png)
+
 **3. get all documents where `actors` include "Brad Pitt"** 
 
 ![Sample Output](images/FIND5.png)
