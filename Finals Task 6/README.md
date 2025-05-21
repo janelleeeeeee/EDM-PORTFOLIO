@@ -142,45 +142,27 @@ db.movies.update({_id:ObjectId("5c9f983ce5c2dfe9b3729bfc")}, {$push {actors:"Sam
 ```
 ![Sample Output](images/UPDATE.png)
 ## Text Search
-
+```
+db.movies.find({synopsis:{$regex:"Bilbo"}})
+```
+```
+db.movies.find({synopsis:{$regex:"Gandalf"}})
+```
+```
+db.movies.find({$and:[{synopsis:{$regex:"Bilbo"}}, {synopsis:{$not:/Gandalf/}}]})
+```
+```
+db.movies.find({$or:[{synopsis:{$regex:"dwarves"}}, {synopsis:{$regex:"hobbit"}}]})
+```
+```
+db.movies.find({$and:[{synopsis:{$regex:"gold"}}, {synopsis {$regex:"dragon"}}]})
+```
 ![Sample Output](images/TEXT_SEARCH.png)
 ## Delete Documents
-
+```
+db.movies.remove({_id:ObjectId("5c9f992ae5c2dfe9b3729c00")})
+```
+```
+db.movies.remove({_id:ObjectId("5c9f9936e5c2dfe9b3729c01")})
+```
 ![Sample Output](images/DELETE.png)
-## Relationships
-### Insert the following documents into a `users` collection
-
-![Sample Output](images/INSERTREL.png)
-### Insert the following documents into a `posts` collection
-
-![Sample Output](images/POST.png)
-![Sample Output](images/POSTS.png)
-### Insert the following documents into a `comments` collection
-
-![Sample Output](images/COMMENT.png)
-![Sample Output](images/COMMENTS.png)
-## Querying related collections
-- find all users
-
-![Sample Output](images/USER.png)
-- find all posts
-
-![Sample Output](images/FINDPOST.png)
-![Sample Output](images/FINDPOSTS.png)
-- find all posts that was authored by "GoodGuyGreg"
-
-![Sample Output](images/POSTFIND.png)
-- find all posts that was authored by "ScumbagSteve"
-
-![Sample Output](images/FINDUSER.png)
-- find all comments
-
-![Sample Output](images/FINDCOMMENT.png)
-![Sample Output](images/FINDCOMMENT1.png)
-- find all comments that was authored by "GoodGuyGreg"
-
-![Sample Output](images/COMMENTFIND.png)
-- find all comments that was authored by "ScumbagSteve"
-
-![Sample Output](images/COMMENTFIND1.png)
-
