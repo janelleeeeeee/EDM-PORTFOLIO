@@ -84,7 +84,6 @@ db.movies.insert({title:"Pee Wee Herman's Big Adventures"})
 title : Avatar
 ```
 db.movies.insert({title:"Avatar"})
-```
 ![Sample Output](images/INSERT2.png)
 ## Query / Find Documents
 query the `movies` collection to
