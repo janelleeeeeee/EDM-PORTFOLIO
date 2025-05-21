@@ -9,9 +9,12 @@ Hi, I’m Janelle Bognot, a BS Information Systems student. I am interested in t
 - Elementary: Angeles Elementary School
 
 ## Project Links
+# MIDTERM
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Lab%20Task%201)
 - Midterm Lab Task 2: [Data Cleaning and Transformation using POWER QUERY](Midterm%20Lab%20Task%202)
 - Midterm Lab Task 3: [Creating Pivot Tables and Charts](Midterm%20Lab%20Task%203)
+
+# FINAL
 - Finals Task 1: [Multi Level Company Database](Finals%20Task%201)
 - Finals Task 2: [Transforming ER Model to Relational Tables](Finals%20Task%202)
 - Finals Task 3: [Table Manipulation](Finals%20Task%203)
